@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: Cosmologist | Data Scientist | Civil Hacker
+subtitle: Physicist | Computer Scientist | Data Enthusiast
 ---
 
 ### _Currently a Graduate Student Researcher at The University of Wisconsin - Madison_
