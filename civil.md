@@ -18,7 +18,7 @@ Check out our paper in The Journal of Science Policy and Goverance! <br/>
 ### Improving Bus Route Design Using Stop Balancing and Community-level Data <br/>
 J. McKetney, E. Trujillo, **M. Tabbutt**, B. Baur &nbsp; [doi.org/10.38126/JSPG180109](https://doi.org/10.38126/JSPG180109)
 
-One of the most interesting and important results from the paper was the analysis of the distrubution of bus resources taking into consideration the discrepencies in departure time for work accross race as well as the distribution of races across Madison, WI. In the first figure below it is clear that while most people depart for work around 7am, however there is a large descrepency in departure times based on race. Furthermore, the bus routes that are run by Madison Metro Transit change throughout the day, as can be seen in the second figure. 
+One of the most interesting and important results from the paper was the analysis of the distrubution of bus resources taking into consideration the discrepencies in departure time for work accross race as well as the distribution of races across the city. In the first figure below it is clear that most people depart for work around 7am, however there is a large descrepency in departure times based on race. Furthermore, the bus routes that are run by Madison Metro Transit change throughout the day, as can be seen in the second figure. 
 
 
 <p float="left">
