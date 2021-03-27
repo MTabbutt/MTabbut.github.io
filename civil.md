@@ -1,6 +1,9 @@
-# Civil Hacking Projects:
+---
+layout: page
+title: Civil Hacking Projects
+subtitle: Analyzing Bus Routes
+---
 
-## Analyzing Bus Routes: 
 _Focusing on the equitable distribution of bus resources across demographics._
 
 --- 
