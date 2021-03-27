@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Civil Hacking
-subtitle: Analyzing Bus Routes
+subtitle:  
 ---
 
 <center>
@@ -22,10 +22,10 @@ One of the most interesting and important results from the paper was the analysi
 
  <div class="row">
   <div class="column">
-    <img src="/assets/img/JSPG2021_1.png" alt="Demographics of Departure Time to Work" style="width:45%">
+    <img src="/assets/img/JSPG2021_1.png" alt="Demographics of Departure Time to Work" style="width:30%">
   </div>
   <div class="column">
-    <img src="/assets/img/JSPG2021_2.png" alt="Ethnic Demographics and Route Service" style="width:45%">
+    <img src="/assets/img/JSPG2021_2.png" alt="Ethnic Demographics and Route Service" style="width:30%">
   </div>
 </div> 
 
