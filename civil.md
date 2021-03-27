@@ -20,6 +20,19 @@ J. McKetney, E. Trujillo, **M. Tabbutt**, B. Baur &nbsp; [doi.org/10.38126/JSPG1
 
 One of the most interesting and important results from the paper was the analysis of the distrubution of bus resources taking into consideration the discrepencies in departure time for work accross race as well as the distribution of races across Madison, WI. In the first figure below it is clear that while most people depart for work around 7am, however there is a large descrepency in departure times based on race. Furthermore, the bus routes that are run by Madison Metro Transit change throughout the day, as can be seen in the second figure. 
 
+<div class="image123">
+    <div class="imgContainer">
+        <img src="/assets/img/JSPG2021_1.png" alt="Demographics of Departure Time to Work" style="width:30%">
+        <p>This is image 1</p>
+    </div>
+    <div class="imgContainer">
+        <img src="/assets/img/JSPG2021_2.png" alt="Ethnic Demographics and Route Service" style="width:30%">
+        <p>This is image 2</p>
+    </div>
+</div>
+
+
+
  <div class="row">
   <div class="column">
     <img src="/assets/img/JSPG2021_1.png" alt="Demographics of Departure Time to Work" style="width:30%">
@@ -37,7 +50,7 @@ The Capital Times writes an article about Data Science in Madison with Tyler Car
 
 ### ‘Data Science in Madison’ class offers UW students ‘real world’ projects <br/>
 
-Abigail Becker | The Capital Times | Feb 15, 2021 | [data-science-in-madison](https://madison.com/ct/news/local/govt-and-politics/data-science-in-madison-class-offers-uw-students-real-world-projects/article_9e5db95e-192c-5747-bd3a-a467d2228c30.html)
+Abigail Becker &#124; The Capital Times &#124; Feb 15, 2021 &#124; [data-science-in-madison](https://madison.com/ct/news/local/govt-and-politics/data-science-in-madison-class-offers-uw-students-real-world-projects/article_9e5db95e-192c-5747-bd3a-a467d2228c30.html)
 
 Preview:
 
