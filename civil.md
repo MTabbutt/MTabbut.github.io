@@ -22,8 +22,8 @@ One of the most interesting and important results from the paper was the analysi
 
 
 <p float="left">
-  <img src="/assets/img/JSPG2021_1.png" alt="Demographics of Departure Time to Work" style="width:30%" align="middle">
-  <img src="/assets/img/JSPG2021_2.png" alt="Ethnic Demographics and Route Service" style="width:30%" align="middle">
+  <img src="/assets/img/JSPG2021_1.png" alt="Demographics of Departure Time to Work" style="width:50%" align="middle">
+  <img src="/assets/img/JSPG2021_2.png" alt="Ethnic Demographics and Route Service" style="width:50%" align="middle">
 </p>
 
 --- 
