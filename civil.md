@@ -4,8 +4,8 @@ title: Civil Hacking
 subtitle: Analyzing Bus Routes
 ---
 <center>
-## Analyzing Bus Routes
-_Focusing on the equitable distribution of bus resources across demographics._
+<h3> Analyzing Bus Routes
+<em>Focusing on the equitable distribution of bus resources across demographics.</em>
 </center>
 --- 
 
@@ -26,8 +26,3 @@ One of the most interesting and important results from the paper was the analysi
     <img src="/assets/img/JSPG2021_2.png" alt="Ethnic Demographics and Route Service" style="width:45%">
   </div>
 </div> 
-
-
-![Demographics of Departure Time to Work](/assets/img/JSPG2021_1.png "Demographics of Departure Time to Work")
-
-![Ethnic Demographics and Route Service](/assets/img/JSPG2021_2.png "Ethnic Demographics and Route Service")
