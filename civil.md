@@ -22,34 +22,9 @@ One of the most interesting and important results from the paper was the analysi
 
 
 <p float="left">
-  <img src="/assets/img/JSPG2021_1.png" alt="Demographics of Departure Time to Work" width="472" align="middle">
-  <img src="/assets/img/JSPG2021_2.png" alt="Ethnic Demographics and Route Service" width="472" align="middle">
+  <img src="/assets/img/JSPG2021_1.png" alt="Demographics of Departure Time to Work" style="width:30%" align="middle">
+  <img src="/assets/img/JSPG2021_2.png" alt="Ethnic Demographics and Route Service" style="width:30%" align="middle">
 </p>
-
-
-
-
-<div class="image123">
-    <div class="imgContainer">
-        <img src="/assets/img/JSPG2021_1.png" alt="Demographics of Departure Time to Work" style="width:30%">
-        <p>This is image 1</p>
-    </div>
-    <div class="imgContainer">
-        <img src="/assets/img/JSPG2021_2.png" alt="Ethnic Demographics and Route Service" style="width:30%">
-        <p>This is image 2</p>
-    </div>
-</div>
-
-
-
- <div class="row">
-  <div class="column">
-    <img src="/assets/img/JSPG2021_1.png" alt="Demographics of Departure Time to Work" style="width:30%">
-  </div>
-  <div class="column">
-    <img src="/assets/img/JSPG2021_2.png" alt="Ethnic Demographics and Route Service" style="width:30%">
-  </div>
-</div> 
 
 --- 
 
@@ -63,7 +38,5 @@ Abigail Becker &#124; The Capital Times &#124; Feb 15, 2021 &#124; [data-science
 
 Preview:
 
-- “In the classroom we’re giving people data and often the data is clean and easy to work with,” Caraza-Harter said. “Whenever you start working with real data, you find they’re messy.” 
-- Students learn how to work with imperfect data and still extract meaningful conclusions. 
-- Megan Tabbutt, 28, recommended changes to city bus routes to maximize the benefits of the future Bus Rapid Transit project while minimizing cost and increasing accessibility.
-- Now, Tabbutt is expanding on this topic through research with Catalysts for Science Policy, a group on campus for graduate and postdoctoral students interested in science policy. Tabbutt said the class and paper writing process, in addition to the protests over racial injustice this summer, emphasized the importance of acknowledging where assumptions fail. “You’re trying to redo the bus route,” Tabbutt continued. “It’s hard not to re-optimize for you.”
+- “In the classroom we’re giving people data and often the data is clean and easy to work with,” Caraza-Harter said. “Whenever you start working with real data, you find they’re messy.” Students learn how to work with imperfect data and still extract meaningful conclusions. 
+- Megan Tabbutt, 28, recommended changes to city bus routes to maximize the benefits of the future Bus Rapid Transit project while minimizing cost and increasing accessibility. Now, Tabbutt is expanding on this topic through research with Catalysts for Science Policy, a group on campus for graduate and postdoctoral students interested in science policy. Tabbutt said the class and paper writing process, in addition to the protests over racial injustice this summer, emphasized the importance of acknowledging where assumptions fail. “You’re trying to redo the bus route,” Tabbutt continued. “It’s hard not to re-optimize for you.”
