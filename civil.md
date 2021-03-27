@@ -20,6 +20,15 @@ J. McKetney, E. Trujillo, **M. Tabbutt**, B. Baur &nbsp; [doi.org/10.38126/JSPG1
 
 One of the most interesting and important results from the paper was the analysis of the distrubution of bus resources taking into consideration the discrepencies in departure time for work accross race as well as the distribution of races across Madison, WI. In the first figure below it is clear that while most people depart for work around 7am, however there is a large descrepency in departure times based on race. Furthermore, the bus routes that are run by Madison Metro Transit change throughout the day, as can be seen in the second figure. 
 
+
+<p float="left">
+  <img src="/assets/img/JSPG2021_1.png" alt="Demographics of Departure Time to Work" width="472" align="middle">
+  <img src="/assets/img/JSPG2021_2.png" alt="Ethnic Demographics and Route Service" width="472" align="middle">
+</p>
+
+
+
+
 <div class="image123">
     <div class="imgContainer">
         <img src="/assets/img/JSPG2021_1.png" alt="Demographics of Departure Time to Work" style="width:30%">
