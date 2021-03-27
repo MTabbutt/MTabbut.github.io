@@ -20,10 +20,10 @@ One of the most interesting and important results from the paper was the analysi
 
  <div class="row">
   <div class="column">
-    <img src="/assets/img/JSPG2021_1.png" alt="Demographics of Departure Time to Work" style="width:50%">
+    <img src="/assets/img/JSPG2021_1.png" alt="Demographics of Departure Time to Work" style="width:45%">
   </div>
   <div class="column">
-    <img src="/assets/img/JSPG2021_2.png" alt="Ethnic Demographics and Route Service" style="width:50%">
+    <img src="/assets/img/JSPG2021_2.png" alt="Ethnic Demographics and Route Service" style="width:45%">
   </div>
 </div> 
 
