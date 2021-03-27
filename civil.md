@@ -3,8 +3,9 @@ layout: page
 title: Civil Hacking
 subtitle: Analyzing Bus Routes
 ---
+
 <center>
-<h3> Analyzing Bus Routes
+<h3> Analyzing Bus Routes </h3>
 <em>Focusing on the equitable distribution of bus resources across demographics.</em>
 </center>
 --- 
