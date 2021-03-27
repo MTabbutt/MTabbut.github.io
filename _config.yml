@@ -15,10 +15,12 @@ author: Megan Tabbutt
 
 navbar-links:
   About Me: "aboutme"
+  Civil Hacking: "civil"
+  Physics Research: "physics"
   Acedemics: "acedemics"
   Projects: "projects"
-   # - Physics Research: "physics"
-   # - Civil Hacking: "civil"
+  
+  
   #Resources:
    # - Beautiful Jekyll: "https://beautifuljekyll.com"
    # - Learn markdown: "https://www.markdowntutorial.com/"
