@@ -18,13 +18,10 @@ Check out our paper in The Journal of Science Policy and Goverance! <br/>
 ### Improving Bus Route Design Using Stop Balancing and Community-level Data <br/>
 J. McKetney, E. Trujillo, **M. Tabbutt**, B. Baur &nbsp; [doi.org/10.38126/JSPG180109](https://doi.org/10.38126/JSPG180109)
 
-One of the most interesting and important results from the paper was the analysis of the distrubution of bus resources taking into consideration the discrepencies in departure time for work accross race as well as the distribution of races across the city. In the first figure below it is clear that most people depart for work around 7am, however there is a large descrepency in departure times based on race. Furthermore, the bus routes that are run by Madison Metro Transit change throughout the day, as can be seen in the second figure. 
+One of the most interesting and important results from the paper was the analysis of the discrepencies in departure time for work based on race. Seen below is a figure that I made from data obtained from the 2010 US Census for Wisconsin. While most people leave for work at 7am, the distribution of "non 9-5" shifts are skewed to non-white races disporpotionatly from what you would expect based on the race distribution of the state. This skew should be considered when analyzing bus routes for cities as lower off-peak service can affect races differently. 
 
 
-<p float="left">
-  <img src="/assets/img/JSPG2021_1.png" alt="Demographics of Departure Time to Work" style="width:47%" align="middle">
-  <img src="/assets/img/JSPG2021_2.png" alt="Ethnic Demographics and Route Service" style="width:47%" align="middle">
-</p>
+ <img src="/assets/img/JSPG2021_1.png" alt="Demographics of Departure Time to Work" style="width:100%" align="middle">
 
 --- 
 
