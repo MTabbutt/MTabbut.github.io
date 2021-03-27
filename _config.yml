@@ -14,11 +14,11 @@ author: Megan Tabbutt
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
+  #About Me: "aboutme"
   Civil Hacking: "civil"
   Physics Research: "physics"
   Acedemics: "acedemics"
-  Projects: "projects"
+  #Projects: "projects"
   
   
   #Resources:
