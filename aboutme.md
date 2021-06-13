@@ -1,4 +1,3 @@
-# about me
 ---
 layout: page
 title: CV/Resume
