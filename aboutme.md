@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 
+title: CV/Resume
 subtitle: 
 ---
 
@@ -11,3 +11,9 @@ subtitle:
 
 --- 
  
+<h4> Education: </h4>
+
+<h5> <em> University of Wisconsin - Madison </em> </h5>
+
+<strong> Ph.D. Physics - Observational Cosmology   </strong>
+
