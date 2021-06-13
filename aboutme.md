@@ -1,11 +1,10 @@
 ---
 layout: page
-title: CV/Resume
-subtitle:  
+title: 
+subtitle: professional skills
 ---
 
 <center>
-<h3> About me: professional skills </h3>
 <em> Physics PhD student and Computer Science MS student with a demonstrated history of working on data science projects.</em>
 </center>
 
