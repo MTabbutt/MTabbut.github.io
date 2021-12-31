@@ -6,8 +6,6 @@ subtitle:
 
 <center> <h2> Civil Hacking: </h2> </center> 
 
-<br/>
-
 <center>
 <strong> Analyzing Bus Routes: </strong> 
  <br/>
