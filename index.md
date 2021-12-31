@@ -1,6 +1,6 @@
 ---
 layout: home
-title: 
+title: Megan
 subtitle: Computer Scientist | Physicist | Data Enthusiast 
 ---
 
