@@ -1,39 +1,78 @@
 ---
 layout: page
-title: Classwork & Projects
+title:
 subtitle:  
 ---
 
+<center>
 <h3> Computer Science, Physics, and Mathematics Classwork Summary: </h3>
+  </center>
 <hr />
+  
+
+<div> <p>
+<h3> Data Science and Machine Learning: </h3>
+
+ <ul>
+   <li>   </li>
+
+   <li>Artificial Intellegence</li>
+   
+   <li>Graduate Machine Learning</li>
+   
+   <li>Data Visualization</li>
+   
+</ul> </p>
+
+
 <div>
   
-  <h3> Data Science and Machine Learning: </h3>
+  <p>
+  <h3> General Computer Science: </h3>
+
+ <ul>
+   
+   <li>   Jave I & II </li>
+   
+<li>   Human-Computer Interaction </li>
+   
+<li>   Quantum Computing in Theoretical Computer Science</li>
+   
+<li>   </li>
+   
+</ul> </p>
+
+
+<div>
   
-    </br>
-    </br>
-    &emsp; <strong> Ph.D. Physics - Observational Cosmology </strong> &emsp; 2018 - present
-    </br>
-    &emsp; Thesis Work: Large Scale Structure in Optical Photometric Surveys
-    
-    </br>
-    </br>
+  <p>
+  <h3> Mathematics: </h3>
 
-    &emsp; <strong> M.S. Computer Science </strong> &emsp; 2021 - present
-    </br>
-    &emsp; Focus: Data Science
-    
-    </br>
-    </br>
+ <ul>
+   
+<li>   </li>
+   
+<li>   </li>
+   
+<li>   </li>
+   
+</ul> </p>
 
-    &emsp; <strong> M.A. Physics </strong> &emsp; 2018 - 2021
-    </br>
-    &emsp; Minor: Computer Sciences and Electrical & Computer Engineering
-    
-    </br>
-    </br>
 
-    &emsp; <strong> B.S. Physics - </strong> <em> Graduated with Distinction, Honors in the Major </em> &emsp; 2015 - 2018
-    </br>
-    &emsp; Double Major: Astronomy-Physics; Minor: Math
-</div>
+
+<div>
+  
+  <p>
+  <h3> Physics: </h3>
+
+ <ul>
+   
+<li>   Statistical Mechanics and Thermodynamics </li>
+   
+<li>   </li>
+   
+<li>   </li>
+   
+</ul> </p>
+
+
