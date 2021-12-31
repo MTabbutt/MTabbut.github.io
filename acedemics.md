@@ -5,7 +5,7 @@ subtitle:
 ---
 
 <center>
-<h3> Classwork Summary: </h3>
+<h2> Classwork Summary: </h2>
   <em> Computer Science, Physics, and Mathematics </em> 
   </center>
 <hr />
