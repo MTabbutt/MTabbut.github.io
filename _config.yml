@@ -14,7 +14,7 @@ author: Megan Tabbutt
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  #Home: "/"
+  Home: "home"
   Resume: "aboutme"
   Civil Hacking: "civil"
   Classwork & Projects: "acedemics"
