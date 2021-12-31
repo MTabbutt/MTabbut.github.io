@@ -73,7 +73,7 @@ subtitle:
    
    <li>   Mechanics, Theoretical Dynamics </li>
    
-   <li>   Electricy and Magnetism, Theoretical Electrodynamics, Electronics and Electrical Circuits </li>
+   <li>   Electricy and Magnetism, Theoretical Electrodynamics, Electronics and Circuits </li>
    
    <li>   Statistical Mechanics, Thermodynamics, Solid State Physics </li>
    
