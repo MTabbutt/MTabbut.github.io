@@ -1,4 +1,5 @@
+---
 layout: page
 title: 
-subtitle:  Computer Scientist | Physicist | Data Enthusiast
-
+subtitle: Physicist | Computer Scientist | Data Enthusiast
+---
