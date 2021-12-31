@@ -1,8 +1,10 @@
 ---
 layout: page
-title: Civil Hacking
+title:
 subtitle:  
 ---
+
+<h2> Civil Hacking: </h2>
 
 <center>
 <h3> Analyzing Bus Routes </h3>
