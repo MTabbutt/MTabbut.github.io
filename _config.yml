@@ -15,10 +15,10 @@ author: Megan Tabbutt
 
 navbar-links:
   #Home: "/"
-  CV/Resume: "aboutme"
+  Resume: "aboutme"
   Civil Hacking: "civil"
+  CS Classwork: "acedemics"
   Physics Research: "physics"
-  Acedemics: "acedemics"
   #Projects: "projects"
   
   
@@ -38,7 +38,7 @@ round-avatar: false
 
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter
-#title-img: /path/to/image
+#title-img: "/assets/img/Slide2.png"
 
 
 # --- Footer social media links --- #
