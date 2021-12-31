@@ -15,18 +15,14 @@ subtitle:
 <h3> Data Science and Machine Learning: </h3>
 
  <ul>
-   <li>   </li>
-   <li>   </li>
-   <li>   </li>
-   <li>   </li>
    
-   <li>  Data Science in Madison </li>
-   
-   <li> Bioinformatics </li>
-
    <li> Artificial Intellegence </li>
    
-   <li> Graduate Machine Learning </li>
+   <li> Machine Learning </li>
+   
+   <li> Data Science in Madison </li>
+   
+   <li> Bioinformatics </li>
    
    <li> Data Visualization </li>
    
@@ -42,13 +38,11 @@ subtitle:
    
    <li>   Java I & II </li>
    
-    <li>   Python </li>
+   <li>   Python </li>
    
-<li>   Human-Computer Interaction </li>
+   <li>   Human-Computer Interaction </li>
    
-<li>   Quantum Computing in Theoretical Computer Science</li>
-   
-<li>   </li>
+   <li>   Quantum Computing in Theoretical Computer Science</li>
    
 </ul> </p>
 
@@ -60,12 +54,12 @@ subtitle:
 
  <ul>
    
-<li>   </li>
+  <li>  Calculus I, II, & III, Theoretical Calculus </li>
    
-<li>   </li>
+  <li>   Differential Equations (ODE & PDE), Linear Algebra </li>
    
-<li>   </li>
-   
+  <li>   Applied Mathematical Analysis I & II </li>
+  
 </ul> </p>
 
 
@@ -77,11 +71,15 @@ subtitle:
 
  <ul>
    
-<li>   Statistical Mechanics, Thermodynamics, Solid State Physics </li>
+   <li>   Mechanics, Theoretical Dynamics </li>
    
-<li>   Mechanics, Theoretical Dynamics </li>
+   <li>   Electricy and Magnetism, Theoretical Electrodynamics, Electronics and Electrical Circuits </li>
    
-<li>   Quantum Mechanics, Atomic Structure</li>
+   <li>   Statistical Mechanics, Thermodynamics, Solid State Physics </li>
+   
+   <li>   Quantum Mechanics, Atomic Structure, Optical Physics</li>
+   
+   <li>   General Relativity, Stellar Astrophysics, Cosmology </li>
    
 </ul> </p>
 
