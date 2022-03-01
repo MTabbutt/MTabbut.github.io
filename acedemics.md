@@ -84,3 +84,26 @@ subtitle:
 </ul> </p>
 
 
+
+<center>
+<h2> Specific Classwork Projects: </h2>
+  </center>
+<hr />
+  
+
+<div> <p>
+<h3> Data Science and Machine Learning: </h3>
+  
+ <ul>
+   
+   <li>   Linear and Logistic Regression Models </li>
+   
+    <ul>
+   
+      <li>   Survivability of the Titanic based on features (age, gender, fare, children, etc) </li>
+  
+   </ul> </p>
+   
+   
+   </ul> </p>
+
