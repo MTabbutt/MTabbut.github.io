@@ -90,6 +90,7 @@ subtitle:
   </center>
 <hr />
   
+  *Note: Most classwork is inside a private repository on my github due to acedemic honestly policies. 
 
 <div> <p>
 <h3> Data Science and Machine Learning: </h3>
@@ -97,12 +98,8 @@ subtitle:
  <ul>
    
    <li>   Linear and Logistic Regression Models </li>
-   
-    <ul>
-   
-      <li>   Survivability of the Titanic based on features (age, gender, fare, children, etc) </li>
-  
-   </ul> </p>
+      - Survivability of the Titanic based on features (age, gender, fare, children, etc) </li>
+ 
    
    
    </ul> </p>
