@@ -5,6 +5,23 @@ subtitle:
 ---
 
 <center>
+<h2> Machine Learning Projects: </h2>
+  </center>
+<hr />
+
+
+
+
+<center>
+<h2> Data Science Projects: </h2>
+  </center>
+<hr />
+
+
+
+
+
+<center>
 <h2> Classwork Summary: </h2>
   <em> Computer Science, Physics, and Mathematics </em> 
   </center>
