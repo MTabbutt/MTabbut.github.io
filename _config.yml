@@ -15,7 +15,7 @@ author: Megan Tabbutt
 
 navbar-links:
   #Home: "home"
-  Resume: "aboutme"
+  About Me: "aboutme"
   Computer Science: "acedemics"
   Physics Research: "physics"
   Civil Hacking: "civil"
